@@ -1,0 +1,95 @@
+.jobCard.card-img-top {
+  border-radius: 3%;
+  margin-top: 2%;
+  border: 1px solid silver;
+  object-fit: cover !important;
+  max-height: 40%;
+}
+input.jobsSearch {
+  width: 35%;
+  display: inline-block;
+}
+
+div.rounded-3.jobs {
+  background-color: rgba(170, 162, 162, 0.897);
+  border: 2px solid silver;
+}
+
+button.btn-primary.jobCard {
+  background-color: rgba(4, 4, 124, 0.884) !important;
+}
+
+button.btn-danger.jobCard {
+  background-color: rgba(121, 20, 20, 0.884) !important;
+}
+
+button.btn-warning.jobCard {
+  background-color: rgba(7, 7, 7, 0.795);
+  color: silver;
+}
+
+button.jobCard {
+  width: 75%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+button.jobCard:hover {
+  box-shadow: 0 4px 4px 1px rgb(15, 14, 14) !important;
+}
+
+.jobsModal {
+  font-size: 22px;
+}
+
+.card.jobCard {
+  background-color: rgba(170, 162, 162, 0.897);
+  width: 28%;
+}
+
+.text-silver {
+  color: silver;
+}
+
+.btn-silver {
+  background-color: rgba(170, 162, 162, 0.897);
+  border: 2px solid black;
+}
+
+.jobsSearchForm {
+  width: 71%;
+}
+.formDiv {
+  height: 55px !important;
+}
+
+div.jobForm {
+  background-color: rgba(102, 100, 100, 0.541);
+  border-radius: 1%;
+  width: 50%;
+  border: 2px double silver;
+}
+
+/* div.jobForm input,
+div.jobForm select {
+  font-weight: bold;
+} */
+
+input.jobInput:hover,
+select.jobInput:hover {
+  box-shadow: 0px 0px 10px 3px rgb(218, 217, 217);
+}
+
+.payInput {
+  padding-left: 3%;
+}
+
+.dollarIcon {
+  color: black;
+
+  position: absolute;
+  box-sizing: border-box;
+  bottom: 69.34%;
+
+  right: 60.4%;
+}
